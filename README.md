@@ -1,4 +1,4 @@
-# MATH-7243-Project-
+# MRI Image Segmentation Project
 
 It has always been a challenge for brain surgeons to pinpoint the ventricle area within a patient’s head.
 Surgeons so far have been operating by experience or educated guess when trying to locate it. To
@@ -9,7 +9,6 @@ resolve the shortage of samples, including downsampling and lateral flips. Our m
 million parameters and numerous convolution, max pooling and upsampling layers, and our convolution
 neural network provides a high prediction accuracy of the ventricle area from an input of an MRI scan.
 
-MRI Image Segmentation Dataset
 # OASIS 1 DATA : https://www.oasis-brains.org/#data
 
 Different files:<br>
